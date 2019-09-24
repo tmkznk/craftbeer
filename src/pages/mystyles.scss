@@ -1,0 +1,12 @@
+@charset "utf-8";
+// If need, change your variables before importing Bulma
+
+@import "~bulma/bulma.sass";
+
+.footer {
+    padding: 3rem 1.5rem;
+}
+
+.top {
+    order: 2; 
+}
